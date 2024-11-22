@@ -1,2 +1,6 @@
 PROFE, por las dudas le aclaro que mi programa ya tiene PRODUCTOS, PEDIDOS Y CLIENTES creados para que pueda probarlo
 
+
+//FUENTES DE DONDE SAQUE EL DATETIME
+https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior
+
